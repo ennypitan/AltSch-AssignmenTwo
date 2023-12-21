@@ -12,4 +12,4 @@ This repository contains my submission for the software engineering assignment a
 
 I acknowledge that this work is submitted in partial fulfillment of the requirements for the FrontEnd Development Course at AltSchool.
 
-[ Site is Live @ https://altsch-assignmentone.netlify.app/](https://altsch-assignmentone.netlify.app/)
+[ Live project @ https://altsch-assignmenttwo.netlify.app](https://altsch-assignmenttwo.netlify.app)
